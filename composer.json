@@ -1,5 +1,5 @@
 {
-  "name": "codedge/laravel-fpdf",
+  "name": "davidleverage/laravel-fpdf",
   "description" : "Laravel 5 package for use with Fpdf. It ships with Fpdf 1.81.",
   "license": "MIT",
   "keywords": [
@@ -8,8 +8,8 @@
     "pdf"
   ],
   "support": {
-    "issues": "https://github.com/codedge/laravel-fpdf/issues",
-    "source": "https://github.com/codedge/laravel-fpdf"
+    "issues": "https://github.com/davidleverage/laravel-fpdf/issues",
+    "source": "https://github.com/davidleverage/laravel-fpdf"
   },
   "authors": [
     {
